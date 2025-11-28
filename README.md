@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I go by the name Bibek Bhatta and I'm a tech savvy from Kathmandu, Nepal.<img width="50" height="50">🇳🇵</img> </p> 
+<p align="left">I go by the name Bibek Bhatta and I'm a tech savvy from Kathmandu, Nepal.🇳🇵 </p> 
 
 ###
 
