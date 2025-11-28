@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Debugging since 2023.</p>
+<p align="left">Debugging since 2023. ⌨️ </p>
 
 ###
 
